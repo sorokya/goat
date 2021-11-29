@@ -1,0 +1,11 @@
+{
+  "name": "eojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "web-dev": "cd web && remix dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
